@@ -8,7 +8,7 @@
     ],
     "issues_url": "https://bugs.launchpad.net/puppet-ovn",
     "license": "Apache-2.0",
-    "name": "openstack-ovn",
+    "name": "odivlad-ovn",
     "operatingsystem_support": [
         {
             "operatingsystem": "Debian",
